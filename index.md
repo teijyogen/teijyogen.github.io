@@ -14,8 +14,8 @@ Email: caryzheng [at] db.soc.i.kyoto-u.ac.jp
 + Federated Learning
 
 ## Publications
-+ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang. "FL-Market: Trading Private Models in Federated Learning." The 2022 IEEE International Conference on Big Data (BigData 2022), December, 2022.
-+ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Money Cannot Buy Everything: Trading Mobile Data with Controllable Privacy Loss." The 21st IEEE International Conference on Mobile Data Management (MDM 2020), June-July, 2020.
++ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang. "FL-Market: Trading Private Models in Federated Learning." The 2022 IEEE International Conference on Big Data (BigData 2022, regular paper), December, 2022.
++ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Money Cannot Buy Everything: Trading Mobile Data with Controllable Privacy Loss." The 21st IEEE International Conference on Mobile Data Management (MDM 2020, regular paper), June-July, 2020.
 
 ## Preprints
 + Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Secure Shapley Value for Cross-Silo Federated Learning." arXiv preprint arXiv:2209.04856 (2022).
