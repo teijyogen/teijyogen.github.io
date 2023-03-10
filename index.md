@@ -14,15 +14,15 @@ Email: caryzheng [at] db.soc.i.kyoto-u.ac.jp
 + Federated Learning
 
 ## Publications
-+ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang. "FL-Market: Trading Private Models in Federated Learning." The 2022 IEEE International Conference on Big Data (BigData 2022, regular paper), December, 2022.
-+ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Money Cannot Buy Everything: Trading Mobile Data with Controllable Privacy Loss." The 21st IEEE International Conference on Mobile Data Management (MDM 2020, regular paper), June-July, 2020.
++ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Secure Shapley Value for Cross-Silo Federated Learning." (accepted by VLDB 2023, regular paper, to appear).
++ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang. "FL-Market: Trading Private Models in Federated Learning." The 2022 IEEE International Conference on Big Data (BigData 2022, regular paper, best student paper finalist).
++ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Money Cannot Buy Everything: Trading Mobile Data with Controllable Privacy Loss." The 21st IEEE International Conference on Mobile Data Management (MDM 2020, regular paper).
 
 ## Preprints
-+ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Secure Shapley Value for Cross-Silo Federated Learning." arXiv preprint arXiv:2209.04856 (2022).
 + Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Pricing Private Data with Personalized Differential Privacy and Partial Arbitrage Freeness." arXiv preprint arXiv:2105.01651 (2021).
 
 ## Academic Service
 Journal reviewer: TCOM, TKDE, TDSC, Knowledge-Based Systems, Computers & Security.
 
-External reviewer: KDD 2022, ICDE 2022, BigData 2022, ICDE 2021, VLDB 2020, DASFAA 2021, SIGSPATIAL 2019.
+External reviewer: VLDB 2023, KDD 2022, ICDE 2022, BigData 2022, ICDE 2021, VLDB 2020, DASFAA 2021, SIGSPATIAL 2019.
 
