@@ -1,4 +1,4 @@
-## Welcome to ZHENG Shuyuan's Page
+## ZHENG Shuyuan
 
 I am a doctoral student in the Department of Social Informatics, Graduate School of Informatics, Kyoto University. My research interest lies at the intersection of computer science, law, and economics. Currently, I am focusing on data trading, which involves various legal and economic issues, like data privacy, intellectual property protection and arbitrage-free pricing. I hope I can draw supports from legal studies and game theory to design privacy-preserving and trustworthy data marketplaces to facilitate data circulation and utilization in our data-driven society. I am also interested in developing information technologies from a legal perspective that with those strict data regulations, like the GDPR and CCPA. 
 
