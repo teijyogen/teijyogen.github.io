@@ -1,10 +1,12 @@
 ## ZHENG Shuyuan
 
-I am a doctoral student in the Department of Social Informatics, Graduate School of Informatics, Kyoto University. My research interest lies at the intersection of computer science, law, and economics. Currently, I am focusing on data trading, which involves various legal and economic issues, like data privacy, intellectual property protection and arbitrage-free pricing. I hope I can draw supports from legal studies and game theory to design privacy-preserving and trustworthy data marketplaces to facilitate data circulation and utilization in our data-driven society. I am also interested in developing information technologies from a legal perspective that with those strict data regulations, like the GDPR and CCPA. 
+I am a specially-appointed Assistant Professor with the Graduate School of Information Science and Technology, Osaka University. 
+I received the Ph.D. degree in informatics from Kyoto University in 2023. 
+My current research interest lies at the intersection of computer science, law, and economics, with a particular focus on data economy, data privacy, and computational law. 
 
 A reasonable question is why the address is teijyogen.github.io, rather than zhengshuyuan.github.io. If you know the answer, please contact me.
 
-Email: caryzheng [at] db.soc.i.kyoto-u.ac.jp
+Email: zheng [at] ist.osaka-u.ac.jp
 
 ---
 ## Research Interests
@@ -14,13 +16,13 @@ Email: caryzheng [at] db.soc.i.kyoto-u.ac.jp
 + Computational Law
 
 ## Publications
-+ __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa. "Secure Shapley Value for Cross-Silo Federated Learning." The 49th International Conference on Very Large Data Bases (VLDB 2023, regular paper, to appear).
-+ __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang. "FL-Market: Trading Private Models in Federated Learning." The 2022 IEEE International Conference on Big Data (BigData 2022, regular paper, best student paper finalist).
-+ __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa. "Money Cannot Buy Everything: Trading Mobile Data with Controllable Privacy Loss." The 21st IEEE International Conference on Mobile Data Management (MDM 2020, regular paper).
-+ Wei Kun Kong, __Shuyuan Zheng__, Minh Le Nguyen, Qiang Ma. “Diversity-Oriented Route Planning for Tourists.” Database and Expert Systems Applications: 33rd International Conference (DEXA 2022, regular paper).
++ __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa. Secure Shapley Value for Cross-Silo Federated Learning. Proceedings of the VLDB Endowment, 16(7): 1657--1670, 2023. (VLDB 2023)
++ Tao Huang, __Shuyuan Zheng__. Using Differential Privacy to Define Personal, Anonymous, and Pseudonymous Data. IEEE Access, vol. 11, pp. 109225--109236, 2023.
++ Yoko Konishi, Ryoya Shibaike, __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa. Legal Issues of Differential Privacy: Practical Use in U.S. Census. Information Network Law Review, vol. 22, 2023. (in Japanese)
++ __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang. FL-Market: Trading Private Models in Federated Learning. Proceedings of The 2022 IEEE International Conference on Big Data, pp. 1525--1534, 2022. (IEEE BigData 2022, regular paper, best student paper finalist)
++ Wei Kun Kong, __Shuyuan Zheng__, Minh Le Nguyen, Qiang Ma. Diversity-Oriented Route Planning for Tourists. Proceedings of The 33rd International Conference on Database and Expert Systems Applications, pp. 243--255, 2022. (DEXA 2022, regular paper)
++ __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa. Money Cannot Buy Everything: Trading Mobile Data with Controllable Privacy Loss. Proceedings of The 21st IEEE International Conference on Mobile Data Management, pp. 29--38, 2020. (MDM 2020, regular paper)
 
-## Preprints
-+ Shuyuan Zheng, Yang Cao, Masatoshi Yoshikawa. "Pricing Private Data with Personalized Differential Privacy and Partial Arbitrage Freeness." arXiv preprint arXiv:2105.01651 (2021).
 
 ## Academic Service
 PC member: IEEE BigData 2023.
@@ -28,4 +30,7 @@ PC member: IEEE BigData 2023.
 External reviewer: 
 + Conference: VLDB 2023, KDD 2022, ICDE 2022, IEEE BigData 2022, ICDE 2021, VLDB 2020, DASFAA 2021, SIGSPATIAL 2019.
 + Journal: TCOM, TKDE, TDSC, Knowledge-Based Systems, Computers & Security.
+
+
+(Updated on Oct. 13, 2023.)
 
