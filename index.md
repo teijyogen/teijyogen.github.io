@@ -1,4 +1,4 @@
-## ZHENG Shuyuan
+## Shuyuan ZHENG
 
 I am a specially-appointed Assistant Professor with the Graduate School of Information Science and Technology, Osaka University. 
 I received the Ph.D. degree in informatics from Kyoto University in 2023. 
@@ -7,6 +7,8 @@ My current research interest lies at the intersection of computer science, law, 
 A reasonable question is why the address is teijyogen.github.io, rather than zhengshuyuan.github.io. If you know the answer, please contact me.
 
 Email: zheng [at] ist.osaka-u.ac.jp
+
+Google Scholar: https://scholar.google.com/citations?user=NLj5BqEAAAAJ&hl=en
 
 ---
 ## Research Interests
