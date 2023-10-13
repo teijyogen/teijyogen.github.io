@@ -1,4 +1,4 @@
-## Shuyuan ZHENG
+## Shuyuan ZHENG 
 
 I am a specially-appointed Assistant Professor with the Graduate School of Information Science and Technology, Osaka University. 
 I received the Ph.D. degree in informatics from Kyoto University in 2023. 
@@ -8,14 +8,17 @@ A reasonable question is why the address is teijyogen.github.io, rather than zhe
 
 Email: zheng [at] ist.osaka-u.ac.jp
 
-Google Scholar: https://scholar.google.com/citations?user=NLj5BqEAAAAJ&hl=en
+[Google Scholar](https://scholar.google.com/citations?user=NLj5BqEAAAAJ&hl=en)
 
 ---
+
+
 ## Research Interests
 + Data Economy
 + Data Privacy
 + Mechanism Design
 + Computational Law
+
 
 ## Publications
 + __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa. Secure Shapley Value for Cross-Silo Federated Learning. Proceedings of the VLDB Endowment, 16(7): 1657--1670, 2023. (VLDB 2023)
