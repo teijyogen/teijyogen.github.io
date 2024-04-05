@@ -29,9 +29,13 @@ Email: zheng [at] ist.osaka-u.ac.jp
 
 
 ## Academic Service
-PC member: CIKM 2024, IEEE BigData 2023.
+PC member: 
++ International Conference on Information and Knowledge Management (__CIKM__) 2024.
++ IEEE International Conference on Big Data (__BigData__) 2023, 2024.
 
-Journal Reviewer: TDSC, TCOM
+Journal Reviewer: 
++ IEEE Transactions on Dependable and Secure Computing (__TDSC__)
++ IEEE Transactions on Communications (__TCOM__)
 
 (Updated on April 5, 2024.)
 
