@@ -13,6 +13,8 @@ Currently, I am working with [Makoto Onizuka](https://scholar.google.com/citatio
 My research interests lie at the intersection of computer science, law, and economics, with a particular focus on data market, data privacy, and computational law.
 Please contact me if you are interested in any form of collaboration.
 
+Email: zheng[at]ist[dot]osaka-u[dot]ac[dot]jp
+
 News
 ======
 + [Shall We Team UP](https://arxiv.org/abs/2402.12327): We explored the spontaneous cooperation of LLM agents in competing environments. This work has been accepted for EMNLP 2024 Findings.
