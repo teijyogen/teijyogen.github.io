@@ -4,7 +4,7 @@ title: "Publications & Preprints"
 author_profile: true
 redirect_from: 
   - /publications/
-  - /publications.html
+  - /publications.md
 ---
 
 (* indicates equal contributions; # indicates correspondence.)
