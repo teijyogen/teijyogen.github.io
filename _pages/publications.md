@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /publications/
 title: "Publications & Preprints"
 author_profile: true
 redirect_from: 
   - /publications/
-  - /publications.md
+  - /publications.html
 ---
 
 (* indicates equal contributions; # indicates correspondence.)
