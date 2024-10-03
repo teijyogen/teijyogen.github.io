@@ -12,7 +12,7 @@ redirect_from:
 (* indicates equal contributions; # indicates correspondence.)
 
 Publications
-----
+-------------
 + Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents.
   + Zengqing Wu*, Run Peng*, __Shuyuan Zheng__#, Qianying Liu, Xu Han, Brian Inhyuk Kwon, Makoto Onizuka, Shaojie Tang, Chuan Xiao
   + **EMNLP 2024 (Findings)**
@@ -35,7 +35,7 @@ Publications
 
 
  Preprints
- ----
+ ----------
  + Legal Fact Prediction: Task Definition and Dataset Construction.
    + Junkai Liu*, Yujie Tong*, Hui Huang, __Shuyuan Zheng__#, Muyun Yang, Peicheng Wu, Makoto Onizuka, Chuan Xiao
  + Privacy-Enhanced Database Synthesis for Benchmark Publishing.
