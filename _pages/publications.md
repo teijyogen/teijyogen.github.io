@@ -21,7 +21,7 @@ redirect_from:
   + **VLDB 2023**
 + Using Differential Privacy to Define Personal, Anonymous, and Pseudonymous Data.
   + Tao Huang, __Shuyuan Zheng__#
-  + IEEE Access
+  + IEEE Access, 2023
 + FL-Market: Trading Private Models in Federated Learning.
   + __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang
   + **IEEE BigData 2022**
@@ -37,7 +37,7 @@ redirect_from:
  <h2>Preprints</h2>
  
  + Legal Fact Prediction: Task Definition and Dataset Construction.
-   + Junkai Liu*, Yujie Tong*, Hui Huang, __Shuyuan Zheng__#, Muyun Yang, Peicheng Wu, Makoto Onizuka, Chuan Xiao
+   + Junkai Liu*, Yujie Tong*, Hui Huang, __Shuyuan Zheng__#, Muyun Yang#, Peicheng Wu, Makoto Onizuka, Chuan Xiao
  + Privacy-Enhanced Database Synthesis for Benchmark Publishing.
    + Yongrui Zhong*, Yunqing Ge*, Jianbin Qin#, __Shuyuan Zheng__#, Bo Tang, Yu-Xuan Qiu, Rui Mao, Ye Yuan, Makoto Onizuka, Chuan Xiao
  + Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations.
