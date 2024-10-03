@@ -7,6 +7,8 @@ redirect_from:
   - /publications.html
 ---
 
+{% include base_path %}
+
 (* indicates equal contributions; # indicates correspondence.)
 
 Publications
