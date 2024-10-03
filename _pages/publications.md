@@ -21,7 +21,7 @@ redirect_from:
   + **VLDB 2023**
 + Using Differential Privacy to Define Personal, Anonymous, and Pseudonymous Data.
   + Tao Huang, __Shuyuan Zheng__#
-  + IEEE Access, 2023
+  + **IEEE Access, 2023**
 + FL-Market: Trading Private Models in Federated Learning.
   + __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa, Huizhong Li, Yan Qiang
   + **IEEE BigData 2022**
