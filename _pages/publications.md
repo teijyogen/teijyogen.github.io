@@ -12,6 +12,7 @@ redirect_from:
 (* indicates equal contributions; # indicates correspondence.)
 
 <h2>Publications</h2>
+
  + Privacy-Enhanced Database Synthesis for Benchmark Publishing.
    + Yunqing Ge, Jianbin Qin#, __Shuyuan Zheng__#, Yongrui Zhong, Bo Tang, Yu-Xuan Qiu, Rui Mao, Ye Yuan, Makoto Onizuka, Chuan Xiao
 + Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents.
