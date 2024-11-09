@@ -12,7 +12,8 @@ redirect_from:
 (* indicates equal contributions; # indicates correspondence.)
 
 <h2>Publications</h2>
-
+ + Privacy-Enhanced Database Synthesis for Benchmark Publishing.
+   + Yunqing Ge, Jianbin Qin#, __Shuyuan Zheng__#, Yongrui Zhong, Bo Tang, Yu-Xuan Qiu, Rui Mao, Ye Yuan, Makoto Onizuka, Chuan Xiao
 + Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents.
   + Zengqing Wu\*, Run Peng\*, __Shuyuan Zheng__#, Qianying Liu, Xu Han, Brian Inhyuk Kwon, Makoto Onizuka, Shaojie Tang, Chuan Xiao
   + **EMNLP 2024 (Findings)**
@@ -38,8 +39,6 @@ redirect_from:
  
  + Legal Fact Prediction: Task Definition and Dataset Construction.
    + Junkai Liu\*, Yujie Tong\*, Hui Huang, __Shuyuan Zheng__#, Muyun Yang#, Peicheng Wu, Makoto Onizuka, Chuan Xiao
- + Privacy-Enhanced Database Synthesis for Benchmark Publishing.
-   + Yongrui Zhong\*, Yunqing Ge\*, Jianbin Qin#, __Shuyuan Zheng__#, Bo Tang, Yu-Xuan Qiu, Rui Mao, Ye Yuan, Makoto Onizuka, Chuan Xiao
  + Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations.
    + Zengqing Wu, Run Peng, Xu Han, __Shuyuan Zheng__, Yixin Zhang, Chuan Xiao
 
