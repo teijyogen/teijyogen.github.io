@@ -16,7 +16,7 @@ redirect_from:
  + Privacy-Enhanced Database Synthesis for Benchmark Publishing.
    + Yunqing Ge, Jianbin Qin#, __Shuyuan Zheng__#, Yongrui Zhong, Bo Tang, Yu-Xuan Qiu, Rui Mao, Ye Yuan, Makoto Onizuka, Chuan Xiao
 + Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents.
-  + Zengqing Wu\*, Run Peng\*, __Shuyuan Zheng__#, Qianying Liu, Xu Han, Brian Inhyuk Kwon, Makoto Onizuka, Shaojie Tang, Chuan Xiao
+  + Zengqing Wu\*, Run Peng\*, __Shuyuan Zheng__#, Qianying Liu, Xu Han, Brian Inhyuk Kwon, Makoto Onizuka, Shaojie Tang, Chuan Xiao#
   + **EMNLP 2024 (Findings)**
 + Secure Shapley Value for Cross-Silo Federated Learning.
   + __Shuyuan Zheng__, Yang Cao, Masatoshi Yoshikawa
