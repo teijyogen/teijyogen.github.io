@@ -17,5 +17,6 @@ Email: zheng[at]ist[dot]osaka-u[dot]ac[dot]jp
 
 News
 ======
++ [Legal Fact Prediction](https://arxiv.org/pdf/2409.07055): We proposed a novel legal AI task, legal fact prediction (LFP), which enhances the practicality of the legal judgment prediction task. We also released a benchmark for LFP, [LFPBench](https://github.com/HPRCEST/LFPBench). This work has been accepted for EMNLP 2025 Main Conference.
 + [PrivBench](https://arxiv.org/abs/2405.01312): We developed a privacy-preserving database synthesis method for benchmarking scenarios. This work has been accepted for VLDB 2025.
 + [Shall We Team UP](https://arxiv.org/abs/2402.12327): We explored the spontaneous cooperation of LLM agents in competing environments. This work has been accepted for EMNLP 2024 Findings.
