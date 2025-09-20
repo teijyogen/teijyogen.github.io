@@ -23,7 +23,7 @@ redirect_from:
    + [[Paper](https://arxiv.org/pdf/2405.01312)] [[Code](https://github.com/teijyogen/PrivBench)]
 + Language‑Bias‑Resilient Visual Question Answering via Adaptive Multi‑Margin Collaborative Debiasing.
   + Huanjia Zhu, __Shuyuan Zheng__, Yishu Liu, Sudong Cai, Bingzhi Chen
-  + NeurIPS 2025
+  + **NeurIPS 2025**
 + Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents.
   + Zengqing Wu\*, Run Peng\*, __Shuyuan Zheng__#, Qianying Liu, Xu Han, Brian Inhyuk Kwon, Makoto Onizuka, Shaojie Tang, Chuan Xiao#
   + **EMNLP 2024 (Findings)**
