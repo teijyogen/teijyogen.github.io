@@ -24,6 +24,9 @@ redirect_from:
 + Language‑Bias‑Resilient Visual Question Answering via Adaptive Multi‑Margin Collaborative Debiasing.
   + Huanjia Zhu, __Shuyuan Zheng__, Yishu Liu, Sudong Cai, Bingzhi Chen
   + **NeurIPS 2025**
++ Reinforcement Learning with Argument-Structured Reward for Court Decision Abstractive Summarization
+  + Yuntao Kong, Ye Xiong, __Shuyuan Zheng__, Ken Satoh
+  + **JURIX 2025 (Short)**
 + Shall We Team Up: Exploring Spontaneous Cooperation of Competing LLM Agents.
   + Zengqing Wu\*, Run Peng\*, __Shuyuan Zheng__#, Qianying Liu, Xu Han, Brian Inhyuk Kwon, Makoto Onizuka, Shaojie Tang, Chuan Xiao#
   + **EMNLP 2024 (Findings)**

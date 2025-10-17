@@ -17,6 +17,7 @@ Email: zheng[at]ist[dot]osaka-u[dot]ac[dot]jp
 
 News
 ======
++ One paper accepted for **JURIX 2025** (Short Paper): "Reinforcement Learning with Argument-Structured Reward for Court Decision Abstractive Summarization."
 + One paper accepted for **NeurIPS 2025** (Main Track): "Language‑Bias‑Resilient Visual Question Answering via Adaptive Multi‑Margin Collaborative Debiasing."
 + [Legal Fact Prediction](https://arxiv.org/pdf/2409.07055): We proposed a novel legal AI task, legal fact prediction (LFP), which enhances the practicality of the legal judgment prediction task. We also released a benchmark for LFP, [LFPBench](https://github.com/HPRCEST/LFPBench). This work has been accepted for **EMNLP 2025 Main** Conference.
 + [PrivBench](https://arxiv.org/abs/2405.01312): We developed a privacy-preserving database synthesis method for benchmarking scenarios. This work has been accepted for **VLDB 2025**.
