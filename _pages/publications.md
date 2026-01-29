@@ -13,6 +13,10 @@ redirect_from:
 
 <h2>Publications</h2>
 
++ Toward Principled Flexible Scaling for Self-Gated Neural Activation。
+  + Sudong Cai, __Shuyuan Zheng__#, Bingzhi Chen, Shuai Yuan, Chuan Xiao, Jianbin Qin, Bing Wang
+  + **ICLR 2026**
+  + [[Paper](https://openreview.net/pdf?id=XGODWn7HeJ)]
 + Legal Fact Prediction: The Missing Piece in Legal Judgment Prediction.
   + Junkai Liu\*, Yujie Tong\*, Hui Huang, Bowen Zheng, Yiran Hu, Peicheng Wu, Chuan Xiao, Makoto Onizuka, Muyun Yang#, __Shuyuan Zheng__#
   + **EMNLP 2025 (Main)**
