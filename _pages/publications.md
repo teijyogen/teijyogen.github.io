@@ -13,10 +13,14 @@ redirect_from:
 
 <h2>Publications</h2>
 
-+ Toward Principled Flexible Scaling for Self-Gated Neural Activation。
++ Toward Principled Flexible Scaling for Self-Gated Neural Activation.
   + Sudong Cai, __Shuyuan Zheng__#, Bingzhi Chen, Shuai Yuan, Chuan Xiao, Jianbin Qin, Bing Wang#
   + **ICLR 2026**
-  + [[Paper](https://openreview.net/pdf?id=XGODWn7HeJ)]
+  + [[Paper](https://openreview.net/pdf?id=XGODWn7HeJ)] [[Code](https://github.com/SudongCAI/FleS)]
++ Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems.
+  + Ronny Ko, Jiseong Jeong, __Shuyuan Zheng__, Chuan Xiao, Tae-Wan Kim, Makoto Onizuka, Won-Yong Shin
+  + **npj Artificial Intelligence** (to appear)
+  + [[Paper](https://arxiv.org/pdf/2505.23847)]
 + Legal Fact Prediction: The Missing Piece in Legal Judgment Prediction.
   + Junkai Liu\*, Yujie Tong\*, Hui Huang, Bowen Zheng, Yiran Hu, Peicheng Wu, Chuan Xiao, Makoto Onizuka, Muyun Yang#, __Shuyuan Zheng__#
   + **EMNLP 2025 (Main)**

@@ -17,7 +17,9 @@ Email: zheng[at]ist[dot]osaka-u[dot]ac[dot]jp
 
 News
 ======
++ [Vision on LLM Security](https://arxiv.org/pdf/2505.23847): Our vision paper "Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems" has been accepted by **npj Artificial Intelligence**.
 + [FLES](https://openreview.net/pdf?id=XGODWn7HeJ): We designed a new self-gated activation method that addresses the non-local tension problem commonly present in existing activation functions. This work has been accepted by **ICLR 2026**.
++ [Social Simulation for Legal Research](https://bridge-ai-law.github.io/): I have been invited to give a talk entitled "Towards LLM-Based Social Simulation for Research in Law" at **AI-Law@AAAI 2026**.
 + One paper accepted for **JURIX 2025** (Short Paper): "Reinforcement Learning with Argument-Structured Reward for Court Decision Abstractive Summarization."
 + One paper accepted for **NeurIPS 2025** (Main Track): "Language‑Bias‑Resilient Visual Question Answering via Adaptive Multi‑Margin Collaborative Debiasing."
 + [Legal Fact Prediction](https://arxiv.org/pdf/2409.07055): We proposed a novel legal AI task, legal fact prediction (LFP), which enhances the practicality of the legal judgment prediction task. We also released a benchmark for LFP, [LFPBench](https://github.com/HPRCEST/LFPBench). This work has been accepted for **EMNLP 2025 Main** Conference.
