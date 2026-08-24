@@ -13,13 +13,21 @@ redirect_from:
 
 <h2>Publications</h2>
 
++ ShapleyLaw: A Game-Theoretic Approach to Multilingual Scaling Laws.
+  + Xuyang Cao\*, Qianying Liu\*, Chuan Xiao, Yusuke Oda, Jiayi Wang, Pontus Stenetorp, Daisuke Kawahara, Makoto Onizuka, Sadao Kurohashi, __Shuyuan Zheng__#
+  + **EMNLP 2026 (Main)**
+  + [[Paper](https://arxiv.org/pdf/2603.17945)]
++ Mechanistic Diagnostics of Spatial Lexical Bias in Multimodal Large Language Model Spatial Reasoning.
+  + Chuang Ma, Qianying Liu#, Tomoyuki Obuchi, Fei Cheng, Wang Yang, Sudong Cai, __Shuyuan Zheng__, Akiko Aizawa, Sadao Kurohashi
+  + **EMNLP 2026 (Main)**
+  + [[Paper](https://arxiv.org/pdf/2606.01914)]
 + Toward Principled Flexible Scaling for Self-Gated Neural Activation.
   + Sudong Cai, __Shuyuan Zheng__#, Bingzhi Chen, Shuai Yuan, Chuan Xiao, Jianbin Qin, Bing Wang#
   + **ICLR 2026**
   + [[Paper](https://openreview.net/pdf?id=XGODWn7HeJ)] [[Code](https://github.com/SudongCAI/FleS)]
-+ Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems.
++ Seven Security Challenges in Cross-domain Multi-agent LLM Systems.
   + Ronny Ko, Jiseong Jeong, __Shuyuan Zheng__, Chuan Xiao, Tae-Wan Kim, Makoto Onizuka, Won-Yong Shin
-  + **npj Artificial Intelligence** (to appear)
+  + **npj Artificial Intelligence**
   + [[Paper](https://arxiv.org/pdf/2505.23847)]
 + Legal Fact Prediction: The Missing Piece in Legal Judgment Prediction.
   + Junkai Liu\*, Yujie Tong\*, Hui Huang, Bowen Zheng, Yiran Hu, Peicheng Wu, Chuan Xiao, Makoto Onizuka, Muyun Yang#, __Shuyuan Zheng__#
@@ -65,9 +73,6 @@ redirect_from:
  + Data Overvaluation Attack and Truthful Data Valuation in Federated Learning.
    + __Shuyuan Zheng__, Sudong Cai, Chuan Xiao, Yang Cao, Jianbin Qin, Masatoshi Yoshikawa, Makoto Onizuka
    + [[Paper](https://arxiv.org/pdf/2502.00494)]
- + Seven security challenges that must be solved in cross-domain multi-agent llm systems.
-   + Ronny Ko, Jiseong Jeong, __Shuyuan Zheng__, Chuan Xiao, Tae-Wan Kim, Makoto Onizuka, Won-Yong Shin
-   + [[Paper](https://arxiv.org/pdf/2505.23847)]
  + Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations.
    + Zengqing Wu, Run Peng, Xu Han, __Shuyuan Zheng__, Yixin Zhang, Chuan Xiao
    + [[Paper](https://arxiv.org/pdf/2311.06330)]
