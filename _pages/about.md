@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor with tenure at the [Onizuka Lab](http://www-bigdata.ist.osaka-u.ac.jp/en/home/), Graduate School of Information Science and Technology, Osaka University.
+I am a tenured Assistant Professor at the [Onizuka Lab](http://www-bigdata.ist.osaka-u.ac.jp/en/home/), Graduate School of Information Science and Technology, The University of Osaka.
 I received my Ph.D. in Informatics from Kyoto University in 2023, under the supervision of Prof. [Masatoshi Yoshikawa](https://scholar.google.co.jp/citations?user=yMFHG7wAAAAJ&hl=ja) and Prof. [Yang Cao](https://yangcao888.github.io/).
 Currently, I am working with Prof. [Makoto Onizuka](https://scholar.google.com/citations?user=oJ6G8gUAAAAJ&hl=en) and Prof. [Chuan Xiao](https://sites.google.com/site/chuanxiao1983/).
-My research interests lie at the intersection of computer science, law, and economics, with a particular focus on data market, data privacy, and computational law.
+I have research experience in data-centric AI and AI security. I am also deeply interested in interdisciplinary research at the intersection of computer science, law, and economics, particularly in legal AI and game-theoretic AI.
+
+Prospective master's students should apply through the entrance examination of the Graduate School of Information Science and Technology, The University of Osaka. Prospective Ph.D. students should contact me by email to arrange an interview.
+
 Please contact me if you are interested in any form of collaboration.
 
 Email: zheng[at]ist[dot]osaka-u[dot]ac[dot]jp
 
 News
 ======
++ [ShapleyLaw](https://arxiv.org/pdf/2603.17945): We proposed a game-theoretic multilingual scaling law that captures cross-lingual transfer and optimizes language mixture ratios. This work has been accepted for **EMNLP 2026 Main** Conference.
++ [Spatial Lexical Bias in MLLMs](https://arxiv.org/pdf/2606.01914): We identified spatial lexical bias in multimodal large language model spatial reasoning and proposed a lightweight method to mitigate it. This work has been accepted for **EMNLP 2026 Main** Conference.
 + [Vision on LLM Security](https://arxiv.org/pdf/2505.23847): Our vision paper "Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems" has been accepted by **npj Artificial Intelligence**.
 + [FLES](https://openreview.net/pdf?id=XGODWn7HeJ): We designed a new self-gated activation method that addresses the non-local tension problem commonly present in existing activation functions. This work has been accepted by **ICLR 2026**.
 + [Social Simulation for Legal Research](https://bridge-ai-law.github.io/): I have been invited to give a talk entitled "Towards LLM-Based Social Simulation for Research in Law" at **AI-Law@AAAI 2026**.
